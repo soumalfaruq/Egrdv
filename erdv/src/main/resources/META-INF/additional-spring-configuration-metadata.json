@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "egrdv.api.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'egrdv.api.jwtSecret'"
+  },
+  {
+    "name": "egrdv.api.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'egrdv.api.jwtExpirationMs'"
+  }
+]}
